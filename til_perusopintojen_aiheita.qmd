@@ -51,6 +51,37 @@ Tässä tiedostossa listattuna aiheita tilastotieteen perusopinnoista. Tavoite s
   - Frequency tables and Crosstabulations
   - 
 
+# TD-kurssi
+
+- Osa 1: 4 - Sattuma ja satunnaisuus tilastotieteessä
+  - Odotusarvo, otoskeskiarvo
+  - Varianssi, otosvarianssi
+- Osa 1: 5 - Tilastolliset aineistot, niiden kerääminen ja mittaaminen
+  - Populaatio, otos
+  - Edustavuus 
+- Osa 1: 6 - Tilastollinen riipppuvuus ja korrelaatio
+  - Muuttujien väliset riippuvuudet (eksakti, tilastollinen, lin. vs epälin.)
+  - Kahden muuttujan havaintoaineiston kuvaaminen (graafiset, ks. alla)
+  - Tunnusluvut (samat kuin alla)
+  - Kovarianssi ja korrelaatio (samat kuin alla)
+
+- Osa 2 - alla
+  - 7 - Otantamenetelmät
+    - YSO, ryväsotanta, ositettu otanta yms.
+  - 8 - Satunnaisotokset, tilastollisen päättelyn näkökulma
+    - Satunnaisotoksen yhteisjakauma
+    - Normaali-, binomi ja Poisson-jakaumat
+    - Tilastolliset tunnusluvut ja parametrien estimaattorit (ka, uskottavuusfunktio), estimaattorien ominaisuudet
+    - Otoskeskiarvo ja otosvarianssi estimaattoreina
+  - 9 - Otosjakaumat ja epävarmuuden arviointi
+    - Otoskeskiarvon ominaisuuksia
+    - Standardoidun otoskeskiarvon otosjakauma
+    - Suhteellisen frekvenssin otosjakauma
+    - Luottamusvälit
+    - Otoskoko
+  - 10 - regressioanalyysi
+    - Aika pitkälti samat kuin alla, mutta ehkä hieman ohkaisemmin
+  - Loput luvut ei niin relevantteja ohjelmoinnin näkökulmasta
 
 # Tilastollisen päättelyn perukurssi
 
