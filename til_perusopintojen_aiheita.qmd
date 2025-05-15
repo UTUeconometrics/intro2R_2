@@ -1,0 +1,154 @@
+---
+title: "Tilastotieteen perusopinnot: aiheita"
+---
+
+Tässä tiedostossa listattuna aiheita tilastotieteen perusopinnoista. Tavoite saada R-kurssin aiheet ajoitettua ja sidottua oikein kys. kurssien kanssa.
+
+# R-kurssi
+
+- Basic R
+  - R objects and basic math operations
+  - Object classes and logical operators
+  - Vectors
+  - Matrices
+  - Other data types: arrays, data frames, lists, NAs
+  
+- Functions and packages
+  - Data import functions
+  - apply functions
+  - grep and substr
+  - Solving equations
+  - Installing packages
+  - Finding packages
+  
+- Control structures and user defined functions
+  - Flow control
+    - if-statements
+    - for loop
+    - while loop
+    - break and next statements
+  - User defined functions
+
+- Random numbers and distributions
+  - Seed number
+  - Distributions
+    - Probabilities and quantiles
+    - Generating data from distributions
+    - Other useful functions for simulations
+
+- Basic plots and graphs
+  - Histograms and barplots
+  - Box plots and scatterplots
+  - Curves
+  - Symbols and figures
+  - Plot customization
+    - Graphical parameters
+    - Plotting layout
+
+- Basic statistics
+  - Descriptive statistics
+  - Correlation and covariance
+  - Frequency tables and Crosstabulations
+  - 
+
+
+# Tilastollisen päättelyn perukurssi
+
+- Frekvenssijakauma - Graafiset esitykset
+  - Pylväskuvio (demot 1)
+  - Histogrammi
+  - Ympyrädiagrammi ("piirakka")
+  - Muita?
+  - Empiirinen kertymäfunktio (demot 1)
+  
+- Jakauman tunnuslukuja
+  - Otoskeskiarvo (demot 1, 2)
+  - Mediaani (demot 1, 2)
+  - Kvartiilit (demot 1, 2)
+  - Vaihteluväli(t)
+  - Otosvarianssi, -keskihajonta (demot 2)
+  - Vinous ja huipukkuus (demot 2)
+  - Tukeyn laatikkokuvio (demot 2)
+  - Normaalikvantiilikuvio (demot 2)
+
+- Jakauman kuvailu kahdelle muuttujalle
+  - Hajontakuvio (demot 3)
+  - PNS-suora (demot 3)
+  - Otoskovarianssi ja -korrelaatio (demot 3)
+  
+- Otosjakaumat
+  - Otoskeskiarvon jakauma (demo 3)
+  - Otossuure ja otosjakauma (demo 3)
+  
+- Piste-estimointi
+  - Odotusarvo ja varianssi (demo 4)
+
+- Väliestimointi
+  - Normaalijakauman odotusarvon luottamusväli (demo 4)
+
+- Muita
+  - Parittaisten havaintojen erotus (demo 5)
+  - Populaatioiden keskiarvojen erotus (demo 5)
+  - Suhteellisen osuuden estimointi ja luottamusväli (demo 5)
+
+- Tilastollinen testaaminen
+  - t-testi normaalijakauman odotusarvolle (demo 5)
+  - Kahden odotusarvon vertailu t-testillä (demo 6)
+  - Suhteellisen osuuden testi (demo 6)
+  - Khiin neliö yhteensopivuustesti (demo 7)
+  - Riippumattomuustesti (demo 7)
+  - Homogeenisuustesti 
+
+# Tilastollisten mallien peruskurssi
+
+- Aineiston kuvailu, perustunnusluvut ja -käsitteet (tämä osuus ilmeisesti suoraan TD)
+  - Kuvailevat tunnusluvut (demo 1)
+  - Kuvailevat kuvaajat (hajontakuva, laatikko-janakuvaaja yms) (demo 1)
+  - Muuttujien väliset riippuvuudet (eksakti, tilastollinen, lin. vs epälin.)
+  - Kahden muuttujan havaintoaineiston kuvaaminen (graafiset, ks. yllä) (demo 1)
+  - Tunnusluvut (samat kuin yllä)
+  - Kovarianssi ja korrelaatio (demo 1)
+
+- Lineaarinen regressiomalli
+  - Malli, oletukset, tulkinta (demo 2)
+  - PNS-estimointi (demo 2)
+  - Selitysaste ja sopivuus (demo 2)
+  - Usean selittäjän malli (demo 2)
+  - Selittäjien merkitsevyys ja valinta (demo 2)
+  
+- Varianssianalyysi (demo 3)
+  - Yksisuuntainen varianssianalyysi
+  - Oletusten tarkastelu ja Kruskal-Wallis
+  - Jatkotarkastelut monivertailuongelmana
+  - Kaksisuuntainen varianssianalyysi
+  - Kovarianssianalyysi
+  
+- Monimuuttujamenetelmät (demo 4)
+  - Pääkomponenttianalyysi
+  - Eksploratiivinen faktorianalyysi
+  
+- Logistinen regressio
+  - Yhden selittäjän malli
+  - Kahden selittäjän malli
+  - SU-menetelmä logistisessa regressiossa
+  - Mallin sopivuuden arviointi
+  - Logreg yleistettynä lineaarisena mallina
+  - Empiirinen esimerkki
+  - Laajennuksista
+
+- Log-lineaariset mallit
+  - Ristitaulukot
+  - Log-lineaarisen mallin perusteita
+  - Moniulotteiset taulukot
+  - Mallin täsmentäminen ja vertailu
+  - Sovittaminen ja arviointi
+  - Esimerkkejä
+
+- Aikasarjat ja indeksit
+  - Aikasarjojen peruskäsitteitä ja esimerkkejä
+  - Aikasarjojen visualisointi ja R
+  - Aikasarjojen eri komponentteja
+  - Autokorrelaatio
+  - ARMA- ja ARIMA-mallien perusteita
+  - Indeksit
+---
